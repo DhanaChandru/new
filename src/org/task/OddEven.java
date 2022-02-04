@@ -4,7 +4,7 @@ public class OddEven {
 	
 	public static void main(String[] args) {
 		
-		
+		//ODD & EVEN
 		for(int i = 0; i<=20; i++)
 		{
 			if(i%2==1)
