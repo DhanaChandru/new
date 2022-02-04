@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrowserLaunch {
 public static void main(String[] args) throws InterruptedException, AWTException {
-	//amazon program
+	//amazon program browser 
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\LENOVO\\eclipse-workspace\\Selenium\\drivers\\chromedriver.exe");
 	WebDriver driver=new ChromeDriver();
 	//Go to Amazon - Search IPHONE12 - Find No. of Products and Print those product Names & Prices
